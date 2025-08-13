@@ -23,11 +23,11 @@ uv sync
 uv run adk web
 ```
 
-![Web App](iamges/web.png)
+![Web App](images/web.png)
 
 
 ```bash
 uv run adk run weather_agent
 ```
 
-![Terminal](iamges/terminal.png)
+![Terminal](images/terminal.png)
